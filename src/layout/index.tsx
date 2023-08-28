@@ -18,12 +18,10 @@ function Layout(props: ILayoutProps) {
   );
 }
 
-const Body = styled.body`
+const Body = styled.div`
   display: flex;
   flex-direction: row;
   justify-content: center;
-  height: 70px;
-  border: 1px solid red;
 `;
 
 export default Layout;

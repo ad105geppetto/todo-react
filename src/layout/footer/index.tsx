@@ -9,7 +9,6 @@ const Container = styled.footer`
   flex-direction: row;
   justify-content: center;
   height: 70px;
-  border: 1px solid blue;
 `;
 
 export default Footer;
