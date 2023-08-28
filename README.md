@@ -15,6 +15,10 @@
 
 ## Intro
 
+### 배포
+
+[TODO LIST 배포사이트](https://todo-react-rjskq3ut0-ad105geppetto.vercel.app/)
+
 ### 설치
 
 ```
@@ -51,4 +55,4 @@ yarn dev 또는 npm run dev
 
 ## 추가 구현 사항
 
-- drag & drop 기능 구현
+- drag & drop 기능 구현 (웹에서만 기능 구현)
